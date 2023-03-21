@@ -4,6 +4,15 @@
     outline: none;
 }
 
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
 .button {
     padding: 10px 30px;
     background-color: yellow;
